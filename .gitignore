@@ -1,0 +1,13 @@
+[Pp]ublic/
+[Nn]ode_modules/
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+.env
+package-lock.json
+
+
